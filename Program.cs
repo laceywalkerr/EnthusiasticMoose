@@ -48,7 +48,7 @@ namespace EnthusiasticMoose
         }
         static void MooseSays(string message)
         {
-            Console.WriteLine(@"
+            Console.WriteLine($@"
                                     _.--^^^--,
                                     .'          `\
 .-^^^^^^-.                      .'              |
